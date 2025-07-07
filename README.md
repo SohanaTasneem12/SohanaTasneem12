@@ -5,11 +5,9 @@
 <div align="center">
 
   <h2>👋 Hi there, I'm Sohana Tasneem</h2>
-
+  
   <h3>🎓 Computer Science graduate | 📍 Chattogram, Bangladesh</h3>
-
   <h3>👩‍🏫 Computer Science Teacher @ Presidency International School</h3>
-
   <h3>🧑‍💻 Data Analytics | Data Science | Artificial Intelligence</h3>
 
 </div>

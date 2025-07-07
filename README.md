@@ -119,7 +119,7 @@
 
 ---
 
-<h3 style="text-align: center;">
-  <strong><em>🎨 From Classrooms to Codebases, let's connect! 🚀</em></strong>
+<h3 style="text-align: center; font-weight: bold; font-style: italic;">
+  🎨 From Classrooms to Codebases, let's connect! 🚀
 </h3>
 

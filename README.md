@@ -119,5 +119,7 @@
 
 ---
 
+<p align="center">
+  <strong><em>🎨 From Classrooms to Codebases, let's connect! 🚀</em></strong>
+</p>
 
-🎨 From Classrooms to Codebases, let's connect! 🚀

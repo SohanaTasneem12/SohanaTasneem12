@@ -4,6 +4,7 @@
 
 <h1 align="center">👋 Hi there, I'm<strong> Sohana Tasneem </strong></h1>
 <h2 align="center">🎓 Computer Science graduate | 📍 Chattogram, Bangladesh  </h2>
+<h2 align="center">👩‍🏫 Computer Science Teacher @ Presidency International School    </h2>
 
 # 👋 Hi there, I'm Sohana Tasneem
 

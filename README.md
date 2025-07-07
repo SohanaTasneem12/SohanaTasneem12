@@ -118,8 +118,8 @@
 
 
 ---
-##
+
 <p align="center">
-  <strong><em>🎨 From Classrooms to Codebases, let's connect! 🚀</em></strong>
+  <h3><strong><em>🎨 From Classrooms to Codebases, let's connect! 🚀</em></strong></h3>
 </p>
 

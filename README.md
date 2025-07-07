@@ -45,9 +45,17 @@
 
 ### 🔧 *Development & Teaching Tools*  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,colab" alt="Dev Tools" />
-</div>
 
+  <!-- Skillicons-supported icons -->
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql" alt="Dev Tools" />
+
+  <!-- Custom icons (fixed size for consistency) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Anaconda_Logo.png" alt="Anaconda" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Code::Blocks_logo.svg" alt="Code::Blocks" width="40" height="40" style="margin: 0 10px;" />
+
+</div>
 
 ---
 

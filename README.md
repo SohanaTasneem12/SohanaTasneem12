@@ -68,6 +68,15 @@
 - **Dashboard Preview:**  
 ![Looker Studio Dashboard](https://i.imgur.com/aIiqICw.png)
 
+### 📦 Shipping Data Analysis  
+- **Tools Used:** Python, Google Colab  
+- **Summary:** This project was part of a Statistics assignment. It focused on analyzing a real-world shipping dataset using various statistical methods and data visualizations in Python.  
+- **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/Shipping_Data_Analysis)  
+- **Visualizations:**  
+<p align="center">
+  <img src="https://i.imgur.com/qSA73HD.png" width="45%" alt="Chart 1" />
+  <img src="https://i.imgur.com/8vKZc7y.png" width="45%" alt="Chart 2" />
+</p>
 
 ---
 

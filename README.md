@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/TBjVRLYv/Git-Hub-Header.png" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co/wh27TK8y/Git-Hub-Header.png" alt="Banner Image" width="100%" />
 </h1>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/wh27TK8y/Git-Hub-Header.png" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co/JR5Hskv7/Git-Hub-Header.png" alt="Banner Image" width="100%" />
 </h1>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h2>👋 Hi there, I'm Sohana Tasneem</h2>
   
   <h3>🎓 B.Sc in Computer Science & Engineering, IIUC</h3>
-  <h3>👩‍🏫 Computer Science Teacher @ Presidency International School</h3>
+  <h3>👩‍🏫 Computer Science Teacher, Presidency International School</h3>
   <h3>🧑‍💻 Data Analytics | Data Science | Artificial Intelligence</h3>
 
 </div>

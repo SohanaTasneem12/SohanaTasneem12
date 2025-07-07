@@ -2,15 +2,16 @@
   <img src="https://ibb.co/hRQPHfL7" alt="Banner Image" />
 </h1>
 
-<h1 align="center">👋 Hi there, I'm<strong> Sohana Tasneem </strong></h1>
-<h2 align="center">🎓 Computer Science graduate | 📍 Chattogram, Bangladesh  </h2>
-<h2 align="center">👩‍🏫 Computer Science Teacher @ Presidency International School    </h2>
+<div align="center">
 
 # 👋 Hi there, I'm Sohana Tasneem
 
-🎓 Computer Science graduate | 📍 Chattogram, Bangladesh  
+🎓 Computer Science & Engineering, IIUC 
 👩‍🏫 Computer Science Teacher @ Presidency International School  
-🧑‍💻 Data Analytics | Data Science | Artificial Intelligence
+🧑‍💻 Data Analytics | Data Science | Artificial Intelligence  
+
+</div>
+
 ---
 
 ## 🌟 *About Me*  

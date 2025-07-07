@@ -2,8 +2,8 @@
   <img src="https://ibb.co/hRQPHfL7" alt="Banner Image" />
 </h1>
 
-<h1 align="center">Hi, I'm <strong>Sohana Tasneem 👋</strong></h1>
-<h3 align="center">Teaching | Data Analytics | AI Enthusiast | From Classrooms to Codebases.</h3>
+<h1 align="center">👋 Hi there, I'm<strong> Sohana Tasneem </strong></h1>
+<h2 align="center">🎓 Computer Science graduate | 📍 Chattogram, Bangladesh  </h2>
 
 # 👋 Hi there, I'm Sohana Tasneem
 

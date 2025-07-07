@@ -68,7 +68,7 @@
 - **Dashboard Preview:**  
 ![Looker Studio Dashboard](https://i.imgur.com/aIiqICw.png)
 
-### 📦 Shipping Data Analysis  
+### 📦 Shipping Data Analysis Project
 - **Tools Used:** Python, Google Colab  
 - **Summary:** This project was part of a Statistics assignment. It focused on analyzing a real-world shipping dataset using various statistical methods and data visualizations in Python.  
 - **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/Shipping_Data_Analysis)  
@@ -77,6 +77,18 @@
   <img src="https://i.imgur.com/qSA73HD.png" width="45%" alt="Chart 1" />
   <img src="https://i.imgur.com/8vKZc7y.png" width="45%" alt="Chart 2" />
 </p>
+
+### 🏗️ Concrete Data Statistical Analysis  
+- **Tools Used:** Python, Google Colab  
+- **Summary:** The task focused on analyzing a dataset related to concrete compressive strength. It involved statistical summary measures and multiple visualizations using Python.  
+- **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/Concrete_Data_Statistical_Analysis)  
+- **Visualizations:**  
+<p align="center">
+  <img src="https://i.imgur.com/mA3XmEw.png" width="30%" alt="Chart 1" />
+  <img src="https://i.imgur.com/j0hRClL.png" width="30%" alt="Chart 2" />
+  <img src="https://i.imgur.com/U8MLTOm.png" width="30%" alt="Chart 3" />
+</p>
+
 
 ---
 

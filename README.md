@@ -52,8 +52,7 @@
   <!-- Custom icons (fixed size for consistency) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" style="margin: 0 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Anaconda_Logo.png" alt="Anaconda" width="40" height="40" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Code::Blocks_logo.svg" alt="Code::Blocks" width="40" height="40" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40" style="margin: 0 10px;" />
 
 </div>
 

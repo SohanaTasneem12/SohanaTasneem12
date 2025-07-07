@@ -111,11 +111,10 @@
 
 ## 📊 *GitHub Stats*  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohanaTasneem12&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanaTasneem12&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohanaTasneem12&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohanaTasneem12&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
 
 
 ---

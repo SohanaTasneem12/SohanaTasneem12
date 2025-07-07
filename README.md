@@ -59,6 +59,17 @@
 </div>
 
 ---
+### 📊 Data Analysis Projects
+
+#### 🏢 IAB-Registered Companies Data Analysis Project  
+- **Tools Used:** Google Sheets, Looker Studio  
+- **Summary:** Analyzed and visualized data of companies registered under the IAB. Key insights were presented using an interactive Looker Studio dashboard.  
+- **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/IAB-Data-Analysis-Project)  
+- **Dashboard Preview:**  
+![Looker Studio Dashboard](https://i.imgur.com/aIiqICw.png)
+
+
+---
 
 ## 🌐 *Connect with Me*  
 

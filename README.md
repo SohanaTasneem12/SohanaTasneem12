@@ -33,7 +33,9 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
+
 
 ### 🧠 *AI, ML & Scientific Computing*  
 <p align="center">
@@ -43,7 +45,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### 🔧 *Development & Teaching Tools*  
+### 🔧 *Development Tools*  
 <div align="center">
 
   <!-- Skillicons-supported icons -->

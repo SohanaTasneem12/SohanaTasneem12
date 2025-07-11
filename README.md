@@ -68,15 +68,18 @@
 - **Dashboard Preview:**  
 ![Looker Studio Dashboard](https://i.imgur.com/aIiqICw.png)
 
-### 📦 Shipping Data Analysis Project
-- **Tools Used:** Python, Google Colab  
-- **Summary:** This project was part of a Statistics assignment. It focused on analyzing a real-world shipping dataset using various statistical methods and data visualizations in Python.  
-- **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/Shipping_Data_Analysis)  
-- **Visualizations:**  
+### 📦 HR Analytics Dashboard
+- **Tools Used:** Power BI  
+- **Summary:** This project presents a Power BI dashboard analyzing employee attrition trends based on a sample HR dataset. It highlights key insights across age groups, departments, gender, tenure, and job satisfaction — helping stakeholders understand factors influencing attrition and workforce dynamics.
+- **Repository:** [View on GitHub](https://github.com/SohanaTasneem12/HR-Analytics-Dashboard)  
+- **Dashboard Preview:**  
+![Power BI Dashboard](https://github.com/SohanaTasneem12/HR-Analytics-Dashboard/blob/main/dashboard.png)
+
+<!-- - **Visualizations:**  
 <p align="center">
   <img src="https://i.imgur.com/qSA73HD.png" width="45%" alt="Chart 1" />
   <img src="https://i.imgur.com/8vKZc7y.png" width="45%" alt="Chart 2" />
-</p>
+</p> -->
 
 ### 🏗️ Concrete Data Statistical Analysis  
 - **Tools Used:** Python, Google Colab  
